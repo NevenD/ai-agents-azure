@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="src/BasicAgentApp/BasicAgentApp.csproj" Id="9c06655f-cde4-454f-91fd-a73abe6cbffc" />
   <Project Path="src/HelloAgent/HelloAgent.csproj" />
+  <Project Path="src/Streaming/Streaming.csproj" Id="4611a87f-5727-499a-9eca-ef6426e735e1" />
 </Solution>
