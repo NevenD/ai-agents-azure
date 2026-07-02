@@ -16,8 +16,8 @@
 		<PackageReference Include="Microsoft.Agents.AI.Hosting.OpenAI" Version="1.12.0-alpha.260629.1" />
 	</ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="11.0.0-preview.5.26302.115" />
-  </ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\AppHost\AppHost.ServiceDefaults\AppHost.ServiceDefaults.csproj" />
+	</ItemGroup>
 
 </Project>
