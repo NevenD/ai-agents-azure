@@ -1,10 +1,4 @@
 <Solution>
-  <Folder Name="/MinimalAgent/">
-    <Project Path="src/MinimalAgent/MinimalAgentAspire/MinimalAgentAspire.ApiService/MinimalAgentAspire.ApiService.csproj" />
-    <Project Path="src/MinimalAgent/MinimalAgentAspire/MinimalAgentAspire.AppHost/MinimalAgentAspire.AppHost.csproj" Id="e9fdc961-1526-478a-8ab8-98d53adfb6f3" />
-    <Project Path="src/MinimalAgent/MinimalAgentAspire/MinimalAgentAspire.ServiceDefaults/MinimalAgentAspire.ServiceDefaults.csproj" />
-    <Project Path="src/MinimalAgent/MinimalAgentAspire/MinimalAgentAspire.Web/MinimalAgentAspire.Web.csproj" />
-  </Folder>
   <Project Path="src/BasicAgentApp/BasicAgentApp.csproj" Id="9c06655f-cde4-454f-91fd-a73abe6cbffc" />
   <Project Path="src/HelloAgent/HelloAgent.csproj" />
   <Project Path="src/MultiTurn/MultiTurn.csproj" Id="ce936750-73b8-4f68-9ec3-48316bb4989b" />
