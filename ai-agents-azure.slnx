@@ -1,4 +1,9 @@
 <Solution>
+  <Folder Name="/MinAgent/">
+    <Project Path="src/AIAspire/AppHost/AppHost.AppHost/AppHost.AppHost.csproj" Id="01b6603f-d136-4983-a899-a506cbdb6e55" />
+    <Project Path="src/AIAspire/AppHost/AppHost.ServiceDefaults/AppHost.ServiceDefaults.csproj" />
+    <Project Path="src/AIAspire/WebApi/WebApi.csproj" Id="8428cfdb-789c-4ca7-98df-33d9f4e509f9" />
+  </Folder>
   <Project Path="src/BasicAgentApp/BasicAgentApp.csproj" Id="9c06655f-cde4-454f-91fd-a73abe6cbffc" />
   <Project Path="src/HelloAgent/HelloAgent.csproj" />
   <Project Path="src/MultiTurn/MultiTurn.csproj" Id="ce936750-73b8-4f68-9ec3-48316bb4989b" />
