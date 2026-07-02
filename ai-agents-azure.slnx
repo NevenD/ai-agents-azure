@@ -3,4 +3,5 @@
   <Project Path="src/HelloAgent/HelloAgent.csproj" />
   <Project Path="src/MultiTurn/MultiTurn.csproj" Id="ce936750-73b8-4f68-9ec3-48316bb4989b" />
   <Project Path="src/Streaming/Streaming.csproj" Id="4611a87f-5727-499a-9eca-ef6426e735e1" />
+  <Project Path="src/StructuredOutput/StructuredOutput.csproj" Id="efce5d8f-03bb-4716-a3d8-da1e2ceb5c88" />
 </Solution>
