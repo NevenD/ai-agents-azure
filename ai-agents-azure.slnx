@@ -5,6 +5,7 @@
     <Project Path="src/AIAspire/WebApi/WebApi.csproj" Id="8428cfdb-789c-4ca7-98df-33d9f4e509f9" />
   </Folder>
   <Project Path="src/BasicAgentApp/BasicAgentApp.csproj" Id="9c06655f-cde4-454f-91fd-a73abe6cbffc" />
+  <Project Path="src/FunctionCall/FunctionCall.csproj" Id="cdbc0dc2-aad4-4ec2-9476-923d52241c6c" />
   <Project Path="src/HelloAgent/HelloAgent.csproj" />
   <Project Path="src/MultiTurn/MultiTurn.csproj" Id="ce936750-73b8-4f68-9ec3-48316bb4989b" />
   <Project Path="src/Streaming/Streaming.csproj" Id="4611a87f-5727-499a-9eca-ef6426e735e1" />
