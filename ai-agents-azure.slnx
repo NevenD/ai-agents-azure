@@ -4,6 +4,11 @@
     <Project Path="src/AIAspire/AppHost/AppHost.ServiceDefaults/AppHost.ServiceDefaults.csproj" />
     <Project Path="src/AIAspire/WebApi/WebApi.csproj" Id="8428cfdb-789c-4ca7-98df-33d9f4e509f9" />
   </Folder>
+  <Folder Name="/MinimalAgentWithTools/">
+    <Project Path="src/MinimalAgentWithTools/AppHost/AppHost.csproj" Id="71ffa7b5-749f-456c-9f1e-65b7813993ee" />
+    <Project Path="src/MinimalAgentWithTools/ServiceDefaults/ServiceDefaults.csproj" Id="ab81d26a-6c95-43b6-8279-8cad7bb18331" />
+    <Project Path="src/MinimalAgentWithTools/WebApplication1/WebApiMin-Agent.csproj" Id="4ce1d06f-e54a-4e20-bd84-c04168a1a15a" />
+  </Folder>
   <Project Path="src/ApproveRequiredFunc/ApproveRequiredFunc.csproj" Id="00ae7914-429b-4be5-8be3-9a47109301f9" />
   <Project Path="src/BasicAgentApp/BasicAgentApp.csproj" Id="9c06655f-cde4-454f-91fd-a73abe6cbffc" />
   <Project Path="src/CodeInterpreter/CodeInterpreter.csproj" Id="d8c3c365-d71b-4fbc-ae99-14f2c8e79820" />
