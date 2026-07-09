@@ -13,6 +13,7 @@
   <Project Path="src/BasicAgentApp/BasicAgentApp.csproj" Id="9c06655f-cde4-454f-91fd-a73abe6cbffc" />
   <Project Path="src/CodeInterpreter/CodeInterpreter.csproj" Id="d8c3c365-d71b-4fbc-ae99-14f2c8e79820" />
   <Project Path="src/CustomContextProvider/CustomContextProvider.csproj" Id="50375e62-23ff-4e41-90fc-e17a374b16bd" />
+  <Project Path="src/FirstWorkflow/FirstWorkflow.csproj" Id="d703e1d6-ff79-4fa8-8517-8bb32a07097b" />
   <Project Path="src/FunctionCall/FunctionCall.csproj" Id="cdbc0dc2-aad4-4ec2-9476-923d52241c6c" />
   <Project Path="src/HelloAgent/HelloAgent.csproj" />
   <Project Path="src/MockCosmosDb/MockCosmosDb.csproj" Id="5ab6ccd9-1114-42d7-ad5e-db49271367e3" />
