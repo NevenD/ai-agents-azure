@@ -9,6 +9,7 @@
     <Project Path="src/MinimalAgentWithTools/ServiceDefaults/ServiceDefaults.csproj" Id="ab81d26a-6c95-43b6-8279-8cad7bb18331" />
     <Project Path="src/MinimalAgentWithTools/WebApplication1/WebApiMin-Agent.csproj" Id="4ce1d06f-e54a-4e20-bd84-c04168a1a15a" />
   </Folder>
+  <Project Path="src/AgenticWorkflowPatterns/AgenticWorkflowPatterns.csproj" Id="e0ab385e-874a-42ff-be8a-3e07484a2cc3" />
   <Project Path="src/AgentsWorkflow/AgentsWorkflow.csproj" Id="cdadde5c-ef33-4d99-b567-afa5dba253ae" />
   <Project Path="src/ApproveRequiredFunc/ApproveRequiredFunc.csproj" Id="00ae7914-429b-4be5-8be3-9a47109301f9" />
   <Project Path="src/BasicAgentApp/BasicAgentApp.csproj" Id="9c06655f-cde4-454f-91fd-a73abe6cbffc" />
