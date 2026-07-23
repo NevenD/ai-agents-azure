@@ -21,11 +21,13 @@
   <Project Path="src/BasicTextRAGExample/BasicTextRAGExample.csproj" Id="95b6c334-92ed-4a4e-a6bb-9a9a07c5d359" />
   <Project Path="src/CodeInterpreter/CodeInterpreter.csproj" Id="d8c3c365-d71b-4fbc-ae99-14f2c8e79820" />
   <Project Path="src/CustomContextProvider/CustomContextProvider.csproj" Id="50375e62-23ff-4e41-90fc-e17a374b16bd" />
+  <Project Path="src/EnterpriseA2A.Api/EnterpriseA2A.Api.csproj" Id="eacf5155-4c8d-4134-aa17-5b10d03e785f" />
   <Project Path="src/FirstWorkflow/FirstWorkflow.csproj" Id="d703e1d6-ff79-4fa8-8517-8bb32a07097b" />
   <Project Path="src/FunctionCall/FunctionCall.csproj" Id="cdbc0dc2-aad4-4ec2-9476-923d52241c6c" />
   <Project Path="src/HelloAgent/HelloAgent.csproj" />
   <Project Path="src/MockCosmosDb/MockCosmosDb.csproj" Id="5ab6ccd9-1114-42d7-ad5e-db49271367e3" />
   <Project Path="src/MultiTurn/MultiTurn.csproj" Id="ce936750-73b8-4f68-9ec3-48316bb4989b" />
+  <Project Path="src/QdrantVectorStore/QdrantVectorStore.csproj" Id="114391ca-7805-4799-9be9-eacd1eee5461" />
   <Project Path="src/Streaming/Streaming.csproj" Id="4611a87f-5727-499a-9eca-ef6426e735e1" />
   <Project Path="src/StructuredOutput/StructuredOutput.csproj" Id="efce5d8f-03bb-4716-a3d8-da1e2ceb5c88" />
 </Solution>
